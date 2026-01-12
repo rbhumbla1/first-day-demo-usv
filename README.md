@@ -3,5 +3,3 @@
  second try third try
  fourth try
  demo for the class
-kjkjk
-fjljl
